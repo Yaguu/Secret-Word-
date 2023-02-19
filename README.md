@@ -1,4 +1,7 @@
 Jogo Secret Word desenvolvido em ReactJS.
+
+![preview](./preview.png)
+
 ## Tecnologias:
 
 - React
